@@ -1,0 +1,27 @@
+
+# Environment files and secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+**/venv/
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+
+# Node.js and Next.js
+**/node_modules/
+**/.next/
+**/dist/
+**/out/
+
+# Android build files
+**/.gradle/
+**/android/app/build/
+**/android/build/
+*.apk
+*.aab
+
+# OS files
+.DS_Store
